@@ -1,18 +1,25 @@
-# Blockchain Credential Verification
+# Blockchain Credential Verification with ERC-721 
 
-## Overview
-Developed and deployed ERC-721 smart contracts for secure credential verification, integrating frontend systems for seamless end-to-end blockchain solutions.  
+## 📌 Overview
+This project built a **secure credential verification system** using **ERC-721 NFTs (non-fungible tokens)**. The goal was to create **tamper-proof, verifiable academic/skill credentials** on the blockchain.
 
-## Tech Stack
-- Solidity  
-- Ethereum / ERC-721  
-- Web3.js  
+## ⚙️ Tech Stack
+- Solidity, Ethereum (ERC-721 standard)
+- Frontend with JavaScript/React
+- Deployment using web3 frameworks
 
-## Features
-- Credential issuance and verification via smart contracts  
-- Secure and tamper-proof system  
-- Integrated with frontend for user-friendly access  
+## 🧠 Methodology
+1. Developed ERC-721 smart contracts for unique credentials
+2. Integrated frontend to interact with blockchain
+3. Designed end-to-end credential minting & verification flow
+4. Tested deployments in Ropsten/Testnet environments
 
-## Lessons Learned
-- Smart contract design and deployment  
-- Bridging blockchain with real-world credentialing needs  
+## 📊 Results
+- Successfully issued and verified credentials on-chain
+- Seamless frontend integration for user verification
+- Demonstrated application of NFTs beyond collectibles
+
+## 🌟 Applications
+- Academic certificates
+- Digital identity solutions
+- Professional licensing and proof of skill
