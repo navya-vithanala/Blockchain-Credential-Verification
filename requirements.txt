@@ -1,0 +1,5 @@
+solidity
+openzeppelin
+hardhat
+web3
+fabric-contract-api-go
